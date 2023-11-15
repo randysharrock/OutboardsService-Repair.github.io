@@ -1,0 +1,116 @@
+
+.text-1 {
+  color: #64CCC5;
+}
+.text-2 {
+  color: #04364A;
+}
+.text-3 {
+  color: #DAFFFB;
+}
+.text-4 {
+  color: #176B87;
+}
+
+.bg-1 {
+  background-color: #64CCC5;
+}
+.bg-2 {
+  background-color: #04364A;
+}
+.bg-3 {
+  background-color: #DAFFFB;
+}
+.bg-4 {
+  background-color: #176B87;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.navbar-image {
+  width: 35%;
+}
+
+.font20 {
+  font-size: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 90%;
+}
+
+.text-center {
+  margin: auto;
+  width: 70%;
+  padding-bottom: 20px;
+}
+
+.gallery-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 20px;
+  min-height: 200px;
+  min-width: 200px;
+}
+
+.nav-a {
+  margin-left: auto;
+}
+
+.nav-m {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+footer {
+  height: 100px;
+}
+
+.google-map {
+  padding-bottom: 30%;
+  position: relative;
+  min-height: 200px;
+  min-width: 200px;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.container-padding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.hours {
+  min-width: 200px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bor {
+  border-style: solid;
+  border-radius: 5px;
+  padding: 8px;
+}
